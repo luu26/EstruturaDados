@@ -29,4 +29,9 @@ public class Aluno extends Pessoa {
 		this.taxaRendimento = taxaRendimento;
 	}
 	
+	public boolean solicitarInscricao(){
+		//definir logica		
+		return true;
+	}
+	
 }

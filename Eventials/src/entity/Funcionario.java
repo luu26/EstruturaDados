@@ -19,4 +19,14 @@ public class Funcionario extends Pessoa {
 	public void setMatricula(String matricula) {
 		this.matricula = matricula;
 	}
+	
+	public boolean importarAluno(){
+		//definir logica
+		return true;
+	}
+	
+	public boolean importarFuncionario(){
+		//definir logica
+		return true;
+	}
 }
